@@ -2,10 +2,6 @@ import pandas as pd
 import joblib
 
 def test_heart_disease_model(test_data):
-    """
-    Function to test the trained heart disease prediction model.
-    Loads the model and makes predictions on a sample dataset.
-    """
     try:
         # model loading
         production_model = joblib.load('models/uci_heart_disease_model.pkl')
