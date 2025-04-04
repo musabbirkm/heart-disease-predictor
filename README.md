@@ -100,6 +100,14 @@ An end-to-end machine learning system that predicts heart disease risk using cli
 
 📌 This optimized threshold enhances **Heart Disease detection** (high recall) while maintaining high precision for **Healthy** predictions.
 
+## 🧠 Model & System Info
+
+- **Model Name:** Heart-Guard
+- **Version:** 1.1
+- **Classifier:** XGBoost
+- **Optimized Threshold:** 0.327
+- **Deployment:** Streamlit App
+
 
 ## ⚠️ Important Disclaimer
 
