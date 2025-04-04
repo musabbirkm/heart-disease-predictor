@@ -1,4 +1,3 @@
-Predict heart disease risk in seconds using clinical data (85% accurate)
 # ❤️ HeartGuard AI - Cardiovascular Risk Prediction System
 Predict heart disease risk in seconds using clinical data (85% accurate)
 
