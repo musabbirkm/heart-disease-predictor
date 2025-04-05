@@ -294,7 +294,7 @@ with st.sidebar:
     st.markdown("""
     ## 🧠 Model & System Info
     This application predicts the likelihood of heart disease based on clinical features using a machine learning model.
-    - **Developed by:** Musabbir KM**
+    - **Developed by:** Musabbir KM
     - **Model Name:** Heart-Guard
     - **Version:** 1.1
     
