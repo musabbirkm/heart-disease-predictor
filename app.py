@@ -243,6 +243,14 @@ sample_data = pd.DataFrame({
 with tab3:
     st.header("Data & Model Information")
 
+    st.subheader("🧠 Model & System Info")
+    st.markdown("""
+    - **Developed by:** Musabbir KM
+    - **Model Name:** Heart-Guard
+    - **Version:** 1.1
+    - **Classifier:** XGBoost
+    - **Optimized Threshold:** 0.327""")
+
     st.subheader("Dataset Information")
     st.markdown("""
     The model was trained on the UCI Heart Disease Dataset containing the following features:
