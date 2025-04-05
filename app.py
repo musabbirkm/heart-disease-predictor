@@ -292,9 +292,12 @@ with tab3:
 with st.sidebar:
     st.title("❤️ Heart Disease Prediction")
     st.markdown("""
-    ## About This App
+    ## 🧠 Model & System Info
     This application predicts the likelihood of heart disease based on clinical features using a machine learning model.
-
+    - **Developed by Musabbir KM**
+    - **Model Name:** Heart-Guard
+    - **Version:** 1.1
+    
     ### Model Information
     - **Algorithm**: Random Forest Classifier
     - **Dataset**: UCI Heart Disease Dataset
@@ -324,5 +327,3 @@ with st.sidebar:
     - **CA**: Number of major vessels colored by fluoroscopy
     - **Thal**: Thalassemia (3,6,7)
     """)
-if __name__ == "__main__":
-    st.run()
